@@ -1,4 +1,4 @@
-# Analyzing Public Health Campaign Posters that Call for Social Distancing in Different cultures
+# Analyzing Public Health Campaign Posters that Call for Social Distancing in Different Cultures
 
 Welcome!
 
